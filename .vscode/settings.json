@@ -1,7 +1,7 @@
 {
   // Visuals
   "workbench.activityBar.visible": true,
-  "workbench.editor.tabCloseButton": "left",
+  "workbench.editor.tabCloseButton": "right",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
   "workbench.preferredDarkColorTheme": "Vitesse Dark",
